@@ -1,4 +1,4 @@
-# Drowsiness-Detection
+# Drowsiness-Detection using CNN, Haar Models
 This is a very Interesting Repository, that introduces to Face Detection, Eye Detection, CNN, Haar Classifier Models.
 
 Here we have first of all used the Haar classifier model to detect the face of teh person in the webcam and then again using the Haar classifier we have detected the eyes of the person. 
